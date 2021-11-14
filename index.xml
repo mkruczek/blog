@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>mkruczek</title>
+    <link>https://mkruczek.github.io/blog/</link>
+    <description>Recent content on mkruczek</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 14 Nov 2021 19:18:30 +0100</lastBuildDate>
+    
+	<atom:link href="https://mkruczek.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>initial commit</title>
+      <link>https://mkruczek.github.io/blog/post/</link>
+      <pubDate>Sun, 14 Nov 2021 19:18:30 +0100</pubDate>
+      
+      <guid>https://mkruczek.github.io/blog/post/</guid>
+      <description>inProgress&amp;hellip;but if you see this that mean my blog on hugo works well :D</description>
+    </item>
+    
+  </channel>
+</rss>
