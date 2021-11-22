@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on mkruczek</title>
-    <link>https://example.org/posts/</link>
+    <link>https://mkruczek.github.io/blog/posts/</link>
     <description>Recent content in Posts on mkruczek</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 14 Nov 2021 20:04:28 +0100</lastBuildDate>
     
-	<atom:link href="https://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://mkruczek.github.io/blog/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>draft &amp; some thoughts...</title>
-      <link>https://example.org/posts/003/</link>
+      <link>https://mkruczek.github.io/blog/posts/003/</link>
       <pubDate>Sun, 14 Nov 2021 20:04:28 +0100</pubDate>
       
-      <guid>https://example.org/posts/003/</guid>
+      <guid>https://mkruczek.github.io/blog/posts/003/</guid>
       <description>This blog will be selfish&amp;hellip; i am writing it for my, for my &amp;lsquo;rozwój&amp;rsquo; i do this becouse this video: https://www.youtube.com/watch?v=B8V5EfJLX9U
 maybe i will remember all Go documentaction, or something we will see&amp;hellip; i think that googles didn&amp;rsquo;t think about autonomic cars when thay inveted search ngine, mark zubberberka&amp;hellip; we will see wher this blog &amp;lsquo;mnie zaprowadzi&amp;rsquo;
 This blog will be in agile approach. ofc i have some idea what and how i want achieve some of my goals, but if i will have need idea probably i will take it.</description>
@@ -24,10 +24,10 @@ This blog will be in agile approach. ofc i have some idea what and how i want ac
     
     <item>
       <title>quick thought : Go for new guys</title>
-      <link>https://example.org/posts/002/</link>
+      <link>https://mkruczek.github.io/blog/posts/002/</link>
       <pubDate>Sun, 14 Nov 2021 20:04:24 +0100</pubDate>
       
-      <guid>https://example.org/posts/002/</guid>
+      <guid>https://mkruczek.github.io/blog/posts/002/</guid>
       <description>i mean completely new guys, without any programing background
 i asked this question at linkedin, and one answer was that Go is to hard and beginners should start with python or java&amp;hellip;
 i thought about it too &amp;hellip; and i think this is just our opinion (programmers with experience), because go has a bit of different concepts than java/python, and they seem more difficult, but they are just different, and if someone will start learning he needs to understand Go approach&amp;hellip; that`s all :D</description>
@@ -35,19 +35,19 @@ i thought about it too &amp;hellip; and i think this is just our opinion (progra
     
     <item>
       <title>initial commit</title>
-      <link>https://example.org/posts/001/</link>
+      <link>https://mkruczek.github.io/blog/posts/001/</link>
       <pubDate>Sun, 14 Nov 2021 20:04:19 +0100</pubDate>
       
-      <guid>https://example.org/posts/001/</guid>
+      <guid>https://mkruczek.github.io/blog/posts/001/</guid>
       <description>inProgress&amp;hellip;but if you see this that mean my blog on hugo works well :D</description>
     </item>
     
     <item>
       <title>initial commit</title>
-      <link>https://example.org/posts/my-first-post/</link>
+      <link>https://mkruczek.github.io/blog/posts/my-first-post/</link>
       <pubDate>Sun, 14 Nov 2021 19:18:30 +0100</pubDate>
       
-      <guid>https://example.org/posts/my-first-post/</guid>
+      <guid>https://mkruczek.github.io/blog/posts/my-first-post/</guid>
       <description>inProgress&amp;hellip;but if you see this that mean my blog on hugo works well :D</description>
     </item>
     
