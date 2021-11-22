@@ -12,6 +12,16 @@
     
     
     <item>
+      <title>about added</title>
+      <link>https://mkruczek.github.io/blog/posts/002/</link>
+      <pubDate>Mon, 22 Nov 2021 20:19:19 +0100</pubDate>
+      
+      <guid>https://mkruczek.github.io/blog/posts/002/</guid>
+      <description>This blog will be a little selfish&amp;hellip; my main goal is to be a better programmer.
+But if You find some values from this blog, i will be a happiest man at the world!! i have started programing at end of 2016, and my first job i got a year later. At the beginning i was working with java, but quickly decide to learn Go, and now i am fulltime Gopher :D</description>
+    </item>
+    
+    <item>
       <title>about</title>
       <link>https://mkruczek.github.io/blog/about/</link>
       <pubDate>Mon, 22 Nov 2021 18:39:34 +0100</pubDate>
